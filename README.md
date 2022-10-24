@@ -62,7 +62,7 @@ N/A
 ## Credits
 [Cheryl Barclay](https://github.com/CheBar1) Frontend / Materialize / HTML / CSS;
 [Jesse Barnett](https://github.com/biscuit231) Backend / YouTube API / JavaScript;
-[Liliana Bazand](https://github.com/lilianaba) Frontend / WireFrame / HTML / CSS;
+[Liliana Bazand](https://lilianaba.github.io/challengew2/) Frontend / WireFrame / HTML / CSS;
 [Zachary Ceruto](https://github.com/ZacharyDonovan88) Backend / Dog API / JavaScript.
 
 
